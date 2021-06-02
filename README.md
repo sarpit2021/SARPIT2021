@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arpitanalyst.blogspot.com/](https://arpitanalyst.blogspot.com/)
 
-- 📝 I regularly write articles on [https://arpitanalyst.blogspot.com/](https://arpitanalyst.blogspot.com/)
+- 📝 I regularly write articles on https://sabdatascientist.com
 
 - 💬 Ask me about **DATA ANALYST, DATA SCIENCE**
 
