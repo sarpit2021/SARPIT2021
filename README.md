@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **FINANCE**
 
-- 🌱 I’m currently learning **PHYTHON, R-PROGRAMMING, SQL, TABLEAU,POWER BI,FULL STACK WEB DEVLOPER**
+- 🌱 I’m currently learning **PHYTHON, R-PROGRAMMING, SQL, TABLEAU,POWER BI**
 
 - 🤝 I’m looking for help with **DATA SCIENCE,DATA ANALYST**
 
